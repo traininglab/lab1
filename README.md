@@ -1,6 +1,5 @@
 Symfony Standard Edition
 ========================
-this is my line
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
 application that you can use as the skeleton for your new app. If you want
 to learn more about the features included, see the "What's Inside?" section.
